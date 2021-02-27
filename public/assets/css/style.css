@@ -1,0 +1,37 @@
+/* ---- GLOBAL ---- */
+
+body {
+    background-color:#f5923b; 
+}
+
+h1,h2,h3,h4 {
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+}
+h1 {
+    font-size: 3.5em;
+}
+
+h1 i {
+    color: #f1c40f;
+}
+
+/* ---- MAIN SECTION ---- */
+
+.burgers-main {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.eat-delete ul {
+    list-style: none;
+    text-align: left;
+}
+.eat-delete li {
+    padding: 10px;
+}
+.eat-delete button {
+    margin-right: 10px;
+}
